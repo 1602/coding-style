@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-1602",
+  "publishConfig": {
+      "registry": "http://registry.npmjs.org"
+  },
+  "version": "1.0.0",
+  "description": "javascript coding style for some FOSS projects (jugglingdb, compound and their friends)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:1602/coding-style.git"
+  },
+  "keywords": [
+    "coding",
+    "style",
+    "javascript",
+    "eslint"
+  ],
+  "author": "Anatoliy Chakkaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1602/coding-style/issues"
+  },
+  "homepage": "https://github.com/1602/coding-style",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
+}
