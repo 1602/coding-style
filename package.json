@@ -3,7 +3,7 @@
   "publishConfig": {
       "registry": "http://registry.npmjs.org"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "javascript coding style for some FOSS projects (jugglingdb, compound and their friends)",
   "main": "index.js",
   "scripts": {

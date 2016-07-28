@@ -66,7 +66,8 @@ module.exports = {
     "arrow-parens": ["error", "as-needed"],
     "arrow-spacing": "error",
     "space-before-blocks": "error",
-    "keyword-spacing": "error"
+    "keyword-spacing": "error",
+    "no-use-before-define": [ "error", { "functions": false } ]
   },
   "globals": {
     "it": true,
