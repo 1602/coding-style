@@ -67,7 +67,8 @@ module.exports = {
     "arrow-spacing": "error",
     "space-before-blocks": "error",
     "keyword-spacing": "error",
-    "no-use-before-define": [ "error", { "functions": false } ]
+    "no-use-before-define": [ "error", { "functions": false } ],
+    "yoda": [2, "never", { "exceptRange": true }]
   },
   "globals": {
     "it": true,
