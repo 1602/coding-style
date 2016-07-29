@@ -42,7 +42,7 @@ module.exports = {
     "brace-style": [ 2, "1tbs", { "allowSingleLine": true } ],
     "indent": [ 2, 4, { "SwitchCase": 1 } ],
     "quotes": [ 2, "single" ],
-    "array-bracket-spacing": [ "error", "always", { "arraysInArrays": false } ],
+    "array-bracket-spacing": [ "error", "never" ],
     "object-curly-spacing": [ "error", "always" ],
     "space-before-function-paren": [ 2, {
       "anonymous": "never",
