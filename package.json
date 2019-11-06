@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/1602/coding-style",
   "devDependencies": {
-    "eslint": "^3.1.1"
+    "eslint": "^6.6.0"
   }
 }
